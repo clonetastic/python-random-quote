@@ -1,4 +1,4 @@
-def main():
+def bread():
   python3 get-quote.py
    print("Keep it logically awesome.")
 
